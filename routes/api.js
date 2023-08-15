@@ -2,7 +2,7 @@ const express = require('express')
 const router = express.Router()
 const User = require('../models/user')
 const mongoose = require('mongoose')
-const db = "mongodb+srv://DashboardML:tBATwS29eYYxRLdX@cluster0.nioznja.mongodb.net/"
+const db = 
 const jwt = require('jsonwebtoken')
 
 
